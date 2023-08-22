@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "generate-license-file": "^2.0.0",
+    "inquirer": "^8.2.4"
   }
 }
